@@ -12,21 +12,22 @@ A fun app that displays random Kanye West quotes every time you press the button
 
 ## Requirements
 
-- iOS 13.0+
-- Xcode 12.0+
-- Swift 5.0+
+- Python 3.x
+- Requests library (install using `pip install requests`)
 
 ## Installation
 
 1. Clone or download this repository.
-2. Open the project in Xcode.
-3. Build and run the app on a simulator or a physical device.
+2. Install the required dependencies by running:
+    ```
+    pip install -r requirements.txt
+    ```
 
 ## Usage
 
-1. Launch the app on your device.
-2. Press the Kanye West avatar button.
-3. Enjoy a random Kanye West quote!
+1. Run the script `kanye_quotes.py`.
+2. Press the button to display a new random Kanye West quote above his avatar.
+3. Enjoy the wisdom of Kanye West!
 
 ## API Used
 
