@@ -37,6 +37,3 @@ This app fetches Kanye West quotes from the [Kanye.rest API]((https://api.kanye.
 
 Contributions are welcome! Feel free to open a pull request or create an issue if you find a bug or want to suggest an improvement.
 
-## License
-
-This project is available under the [MIT License](LICENSE). See the LICENSE file for more information.
